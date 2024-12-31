@@ -53,8 +53,16 @@
 <br>
 <br>
 
-#
+<br>
+<div align=center><h1>🪪 Certifications</h1></div>
 
+<div align=center> 
+  <img src="https://github.com/user-attachments/assets/254734e0-b2e8-436c-8cf6-2edc1bb50e19" width=150>
+  <img src="https://github.com/user-attachments/assets/68161a8b-6b3e-43f2-802d-42cefe0d6be9"width=150>
+</div>
+
+<br>
+<hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEEJUNGHOOON&theme=prussian&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEEJUNGHOOON&layout=compact&theme=tokyonight)
